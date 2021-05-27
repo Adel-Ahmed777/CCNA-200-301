@@ -45,7 +45,9 @@ line console 0
 login local
 no password
 ```
-**login local :** This command prompts the console to ask the user for both the username and password. **no password :** This command is optional to remove any existing simple shared passwords.
+**login local :** This command prompts the console to ask the user for both the username and password. 
+
+**no password :** This command is optional to remove any existing simple shared passwords.
 
 > ## How to configure Telnet (vty) to use locally configured username/password pairs:
 ```
@@ -55,7 +57,9 @@ line vty 0 15
 login local
 no password
 ```
-**login local :** This command prompts the console to ask the user for both the username and password. **no password :** This command is optional to remove any existing simple shared passwords.
+**login local :** This command prompts the console to ask the user for both the username and password.   
+
+**no password :** This command is optional to remove any existing simple shared passwords.
 
 # Securing remote access with secure shell:
 > ## How to secure remote access with secure shell:
@@ -67,8 +71,8 @@ ip domain-name [example.com]
 crypto key generate rsa
 ```
 Next, the following question will appear:
-**Note :**
-Choose a key modulus size that is between 360 to 2048. A key > 512 will take some time.
+
+**Note :** Choose a key modulus size that is between 360 to 2048. A key > 512 will take some time.
 ```
 How many bits in the modulus [512]:
 ```
