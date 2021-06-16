@@ -35,7 +35,7 @@ Once the root bridgeh is elected, all other non-root switches need to determine 
 # STP vs RSTP
 |STP  |RSTP |
 |:---:|:---:|
-|Slow network failure recovery|faster network failure recovery|
+|Slow network failure recovery|Faster network failure recovery|
 | port states: Blocking-->Listening-->Learning-->Forwarding| port states: Discarding-->Learning-->Forwarding|
 | port roles: Root port - Designated port - Blocking port | port roles: Root port - Designated port - Alternated port - Backup port  |
 |Convergence time: 50 seconds|Convergence time: 21 seconds|
