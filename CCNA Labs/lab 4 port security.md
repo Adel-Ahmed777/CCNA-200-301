@@ -1,4 +1,7 @@
 # Lab 4 port security
+
+![](https://github.com/Adel-Ahmed777/CCNA-200-301/blob/main/CCNA%20Labs/Lab%20Images/Lab%204%20-%20Port%20Security.jpg?raw=true)
+
 ## Activities:
 > 1. Configure port security on interface Fa 0/1 of the switch with the following settings :
 - Port security enabled
