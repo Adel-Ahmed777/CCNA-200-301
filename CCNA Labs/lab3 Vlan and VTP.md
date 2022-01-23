@@ -1,6 +1,6 @@
 # Lab 3 Vlan and VTP
 
-1[](https://github.com/Adel-Ahmed777/CCNA-200-301/blob/main/CCNA%20Labs/Lab%20Images/Lab%203%20-%20Vlan.jpg?raw=true)
+![](https://github.com/Adel-Ahmed777/CCNA-200-301/blob/main/CCNA%20Labs/Lab%20Images/Lab%203%20-%20Vlan.jpg?raw=true)
 
 ## Activities
 >1.Configure the VTP-SERVER switch as a VTP server
